@@ -15,7 +15,7 @@ html {
 
 #heade {
   height: 46px;
-  background-color: rgb(179, 36, 36);
+  background-color: black;
   position: fixed;
   top: 0;
   left: 0;
@@ -330,6 +330,7 @@ html {
 @media only screen and (max-width: 480px) {
   #heade {
     background-color: #000;
+    width: 375px;
     position: fixed;
   }
   #heade #nav {
