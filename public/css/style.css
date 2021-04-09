@@ -374,6 +374,7 @@ html {
     margin-top: 1px;
     animation-name: mennu;
     animation-duration: 1s;
+    background-color: blanchedalmond;
   }
 
   #silder .content {
@@ -382,7 +383,7 @@ html {
 
   #content .section-content {
     width: 100%;
-    padding: 64px 16px;
+    padding: 64px 15px;
   }
   #content .section-content .merber-list {
     display: block;
