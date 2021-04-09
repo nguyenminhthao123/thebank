@@ -374,6 +374,7 @@ html {
     margin-top: 1px;
     animation-name: mennu;
     animation-duration: 1s;
+    background-color: blanchedalmond;
   }
 
   #silder .content {
