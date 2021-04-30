@@ -446,3 +446,6 @@ html {
 }
 
 /*# sourceMappingURL=style.css.map */
+/* Những phần tử sử dụng float thường sập độ cao khắc phục bngawf cách thêm class classfix họặc thêm thuộc tinh .clear {
+  clear: both;
+}

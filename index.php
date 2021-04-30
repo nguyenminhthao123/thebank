@@ -101,7 +101,7 @@
                 </div>
                 <div class="info-tour">
                     <div class="tuor-item">
-                        <img src="img/7.jpg" alt="">
+                        <img src="img/13.jpg" alt="">
                         <div class="tuor-content">
                             <h1>New York</h1>
                             <p>Fri 27 Nov 2016</p>
@@ -112,7 +112,7 @@
                         
                     </div>
                     <div class="tuor-item">
-                        <img src="img/8.jpg" alt="">
+                        <img src="img/11.jpg" alt="">
                         <div class="tuor-content">
                             <h1>Paris</h1>
                             <p>Sat 28 Nov 2016</p>
@@ -122,7 +122,7 @@
                         </div>
                     </div>
                     <div class="tuor-item">
-                        <img src="img/9.jpg" alt="">
+                        <img src="img/12.jpg" alt="">
                         <div class="tuor-content">
                             <h1>San Francisco</h1>
                             <p>Sun 29 Nov 2016</p>
